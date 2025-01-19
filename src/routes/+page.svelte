@@ -38,12 +38,14 @@
   <div class="button-container">
     <button on:click={() => selectSource("verbs")}>Verbs</button>
     <button on:click={() => selectSource("sentences")}>Sentences</button>
+    <button on:click={() => selectSource("sentences-hard")}>Sentences+</button>
   </div>
 
   <div class="content">
     {#if randomElement}
     <div class="element">
       <p>{randomElement.norsk}</p>
+       <br>
       <p>{randomElement.english}</p>
     </div>
     {:else}
@@ -62,16 +64,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-  }
-
-  body {
-    font-family: 'Arial', sans-serif;
-    background-color: #f4f7fc;
-    min-height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
   }
 
   /* Button container styling */

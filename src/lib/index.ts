@@ -1,13 +1,12 @@
-// lib/index.ts
 
 export async function fetchData(source: App.DataSource): Promise<App.Element[]> {
     let url: string;
     
-    if (source === "verbs") {
-      url = "/verbs.json"; // Change the URL to the path of your verbs JSON
-    } else if (source === "sentences") {
-      url = "/sentences.json"; // Change the URL to the path of your sentences JSON
-    } else {
+    if (source) {
+      url = `/${source}.json`; 
+    }
+
+    else {
       throw new Error("Unknown data source");
     }
   
