@@ -40,60 +40,66 @@
     <button on:click={() => selectSource("sentences")}>Sentences</button>
   </div>
 
-  <button class="full-screen-button" on:click={changeElement} on:keydown={(e) => (e.key === 'Enter' || e.key === ' ') && changeElement()}>
-    <div class="content">
-      {#if randomElement}
-        <div class="element">
-          <p>{randomElement.norsk}</p>
-          <p>{randomElement.english}</p>
-        </div>
-      {:else}
-        <p>Loading...</p>
-      {/if}
+  <div class="content">
+    {#if randomElement}
+    <div class="element">
+      <p>{randomElement.norsk}</p>
+      <p>{randomElement.english}</p>
     </div>
+    {:else}
+    <p>Loading...</p>
+    {/if}
+  </div>
+
+  <button class="next-button" on:click={changeElement} on:keydown={(e) => (e.key === 'Enter' || e.key === ' ') && changeElement()}>
+    NEXT
   </button>
 </main>
 
 <style>
+  /* Global reset */
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f7fc;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
   /* Button container styling */
   .button-container {
-    position: absolute;
-    top: 20px;
-    left: 50%;
-    transform: translateX(-50%);
     display: flex;
     gap: 1rem;
+    margin-bottom: 2rem;
   }
 
   .button-container button {
-    padding: 10px 20px;
-    font-size: 1rem;
+    padding: 12px 24px;
+    font-size: 1.1rem;
     cursor: pointer;
     background-color: #007bff;
     color: white;
     border: none;
-    border-radius: 5px;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
   }
 
   .button-container button:hover {
     background-color: #0056b3;
+    transform: scale(1.05);
   }
 
-  /* Full screen button styling remains the same */
-  .full-screen-button {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border: none;
-    background: transparent;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 0;
-    cursor: pointer;
-    text-align: center;
+  .button-container button:focus {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(0, 123, 255, 0.4);
   }
 
   .content {
@@ -102,15 +108,17 @@
     justify-content: center;
     align-items: center;
     padding: 2rem;
-    background-color: rgba(255, 255, 255, 0.8);
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    max-width: 90%;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    max-width: 80%;
+    margin-bottom: 2rem;
   }
 
   .element p {
-    font-size: 1.5rem;
-    margin: 0.5rem 0;
+    font-size: 1.6rem;
+    margin: 0.6rem 0;
+    color: #333;
   }
 
   @media (min-width: 768px) {
@@ -119,12 +127,29 @@
     }
   }
 
-  .full-screen-button:focus {
-    outline: none;
-    box-shadow: 0 0 0 3px rgba(100, 150, 250, 0.5);
+  /* Styling for the "Next" button */
+  .next-button {
+    padding: 14px 32px;
+    font-size: 1.3rem;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
   }
 
-  .full-screen-button:active .content {
-    background-color: rgba(255, 255, 255, 0.9);
+  .next-button:hover {
+    background-color: #218838;
+    transform: scale(1.05);
+  }
+
+  .next-button:focus {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(40, 167, 69, 0.4);
+  }
+
+  .next-button:active {
+    background-color: #1e7e34;
   }
 </style>
