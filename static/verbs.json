@@ -1,0 +1,598 @@
+[
+    {
+        "norsk": "å være, var, har vært",
+        "english": "to be"
+    },
+    {
+        "norsk": "å ha, hadde, har hatt",
+        "english": "to have"
+    },
+    {
+        "norsk": "å gjøre, gjorde, har gjort",
+        "english": "to do"
+    },
+    {
+        "norsk": "å gå, gikk, har gått",
+        "english": "to go"
+    },
+    {
+        "norsk": "å spise, spiste, har spist",
+        "english": "to eat"
+    },
+    {
+        "norsk": "å drikke, drakk, har drukket",
+        "english": "to drink"
+    },
+    {
+        "norsk": "å skrive, skrev, har skrevet",
+        "english": "to write"
+    },
+    {
+        "norsk": "å lese, leste, har lest",
+        "english": "to read"
+    },
+    {
+        "norsk": "å se, så, har sett",
+        "english": "to see"
+    },
+    {
+        "norsk": "å sove, sov, har sovet",
+        "english": "to sleep"
+    },
+    {
+        "norsk": "å løpe, løp, har løpt",
+        "english": "to run"
+    },
+    {
+        "norsk": "å snakke, snakket, har snakket",
+        "english": "to speak"
+    },
+    {
+        "norsk": "å høre, hørte, har hørt",
+        "english": "to hear"
+    },
+    {
+        "norsk": "å komme, kom, har kommet",
+        "english": "to come"
+    },
+    {
+        "norsk": "å forstå, forstod, har forstått",
+        "english": "to understand"
+    },
+    {
+        "norsk": "å tenke, tenkte, har tenkt",
+        "english": "to think"
+    },
+    {
+        "norsk": "å finne, fant, har funnet",
+        "english": "to find"
+    },
+    {
+        "norsk": "å gi, gav, har gitt",
+        "english": "to give"
+    },
+    {
+        "norsk": "å ta, tok, har tatt",
+        "english": "to take"
+    },
+    {
+        "norsk": "å vente, ventet, har ventet",
+        "english": "to wait"
+    },
+    {
+        "norsk": "å begynne, begynte, har begynt",
+        "english": "to begin"
+    },
+    {
+        "norsk": "å slutte, sluttet, har sluttet",
+        "english": "to stop"
+    },
+    {
+        "norsk": "å bo, bodde, har bodd",
+        "english": "to live"
+    },
+    {
+        "norsk": "å arbeide, arbeidet, har arbeidet",
+        "english": "to work"
+    },
+    {
+        "norsk": "å kjøpe, kjøpte, har kjøpt",
+        "english": "to buy"
+    },
+    {
+        "norsk": "å selge, solgte, har solgt",
+        "english": "to sell"
+    },
+    {
+        "norsk": "å møte, møtte, har møtt",
+        "english": "to meet"
+    },
+    {
+        "norsk": "å betale, betalte, har betalt",
+        "english": "to pay"
+    },
+    {
+        "norsk": "å leke, lekte, har lekt",
+        "english": "to play"
+    },
+    {
+        "norsk": "å lage, lagde, har laget",
+        "english": "to make"
+    },
+    {
+        "norsk": "å hjelpe, hjalp, har hjulpet",
+        "english": "to help"
+    },
+    {
+        "norsk": "å vente, ventet, har ventet",
+        "english": "to wait"
+    },
+    {
+        "norsk": "å lese, leste, har lest",
+        "english": "to read"
+    },
+    {
+        "norsk": "å sitte, satt, har satt",
+        "english": "to sit"
+    },
+    {
+        "norsk": "å stå, stod, har stått",
+        "english": "to stand"
+    },
+    {
+        "norsk": "å vaske, vasket, har vasket",
+        "english": "to wash"
+    },
+    {
+        "norsk": "å bruke, brukte, har brukt",
+        "english": "to use"
+    },
+    {
+        "norsk": "å snu, snu, har snudd",
+        "english": "to turn"
+    },
+    {
+        "norsk": "å spise, spiste, har spist",
+        "english": "to eat"
+    },
+    {
+        "norsk": "å betale, betalte, har betalt",
+        "english": "to pay"
+    },
+    {
+        "norsk": "å føle, følte, har følt",
+        "english": "to feel"
+    },
+    {
+        "norsk": "å gi, gav, har gitt",
+        "english": "to give"
+    },
+    {
+        "norsk": "å høre, hørte, har hørt",
+        "english": "to hear"
+    },
+    {
+        "norsk": "å sove, sov, har sovet",
+        "english": "to sleep"
+    },
+    {
+        "norsk": "å skrive, skrev, har skrevet",
+        "english": "to write"
+    },
+    {
+        "norsk": "å løpe, løp, har løpt",
+        "english": "to run"
+    },
+    {
+        "norsk": "å se, så, har sett",
+        "english": "to see"
+    },
+    {
+        "norsk": "å være, var, har vært",
+        "english": "to be"
+    },
+    {
+        "norsk": "å kjenne, kjente, har kjent",
+        "english": "to know"
+    },
+    {
+        "norsk": "å finne, fant, har funnet",
+        "english": "to find"
+    },
+    {
+        "norsk": "å dra, drog, har dratt",
+        "english": "to leave"
+    },
+    {
+        "norsk": "å kunne, kunne, har kunnet",
+        "english": "to be able"
+    },
+    {
+        "norsk": "å måtte, måtte, har måttet",
+        "english": "to have to"
+    },
+    {
+        "norsk": "å vente, ventet, har ventet",
+        "english": "to wait"
+    },
+    {
+        "norsk": "å le, lo, har ledd",
+        "english": "to laugh"
+    },
+    {
+        "norsk": "å jobbe, jobbete, har jobbet",
+        "english": "to work"
+    },
+    {
+        "norsk": "å betale, betalte, har betalt",
+        "english": "to pay"
+    },
+    {
+        "norsk": "å åpne, åpnet, har åpnet",
+        "english": "to open"
+    },
+    {
+        "norsk": "å lukke, lukket, har lukket",
+        "english": "to close"
+    },
+    {
+        "norsk": "å lage, laget, har laget",
+        "english": "to create"
+    },
+    {
+        "norsk": "å skrive, skrev, har skrevet",
+        "english": "to write"
+    },
+    {
+        "norsk": "å se, så, har sett",
+        "english": "to watch"
+    },
+    {
+        "norsk": "å ringe, ringte, har ringt",
+        "english": "to call"
+    },
+    {
+        "norsk": "å spørre, spurte, har spurt",
+        "english": "to ask"
+    },
+    {
+        "norsk": "å svare, svarte, har svart",
+        "english": "to answer"
+    },
+    {
+        "norsk": "å vente, ventet, har ventet",
+        "english": "to wait"
+    },
+    {
+        "norsk": "å tro, trodde, har trodd",
+        "english": "to believe"
+    },
+    {
+        "norsk": "å synge, sang, har sunget",
+        "english": "to sing"
+    },
+    {
+        "norsk": "å danse, danset, har danset",
+        "english": "to dance"
+    },
+    {
+        "norsk": "å le, lo, har ledd",
+        "english": "to laugh"
+    },
+    {
+        "norsk": "å lære, lærte, har lært",
+        "english": "to learn"
+    },
+    {
+        "norsk": "å forstå, forstod, har forstått",
+        "english": "to understand"
+    },
+    {
+        "norsk": "å lese, leste, har lest",
+        "english": "to read"
+    },
+    {
+        "norsk": "å lage, laget, har laget",
+        "english": "to make"
+    },
+    {
+        "norsk": "å hjelpe, hjalp, har hjulpet",
+        "english": "to help"
+    },
+    {
+        "norsk": "å løpe, løp, har løpt",
+        "english": "to run"
+    },
+    {
+        "norsk": "å vente, ventet, har ventet",
+        "english": "to wait"
+    },
+    {
+        "norsk": "å stå, stod, har stått",
+        "english": "to stand"
+    },
+    {
+        "norsk": "å sitte, satt, har satt",
+        "english": "to sit"
+    },
+    {
+        "norsk": "å spise, spiste, har spist",
+        "english": "to eat"
+    },
+    {
+        "norsk": "å drikke, drakk, har drukket",
+        "english": "to drink"
+    },
+    {
+        "norsk": "å gå, gikk, har gått",
+        "english": "to go"
+    },
+    {
+        "norsk": "å se, så, har sett",
+        "english": "to see"
+    },
+    {
+        "norsk": "å skrive, skrev, har skrevet",
+        "english": "to write"
+    },
+    {
+        "norsk": "å sende, sendte, har sendt",
+        "english": "to send"
+    },
+    {
+        "norsk": "å sende, sendte, har sendt",
+        "english": "to mail"
+    },
+    {
+        "norsk": "å møte, møtte, har møtt",
+        "english": "to meet"
+    },
+    {
+        "norsk": "å bruke, brukte, har brukt",
+        "english": "to use"
+    },
+    {
+        "norsk": "å bruke, brukte, har brukt",
+        "english": "to wear"
+    },
+    {
+        "norsk": "å finne, fant, har funnet",
+        "english": "to find"
+    },
+    {
+        "norsk": "å være, var, har vært",
+        "english": "to be"
+    },
+    {
+        "norsk": "å forstå, forstod, har forstått",
+        "english": "to understand"
+    },
+    {
+        "norsk": "å kjenne, kjente, har kjent",
+        "english": "to know"
+    },
+    {
+        "norsk": "å sitte, satt, har satt",
+        "english": "to sit"
+    },
+    {
+        "norsk": "å lære, lærte, har lært",
+        "english": "to teach"
+    },
+    {
+        "norsk": "å høre, hørte, har hørt",
+        "english": "to hear"
+    },
+    {
+        "norsk": "å dra, dro, har dratt",
+        "english": "to leave"
+    },
+    {
+        "norsk": "å bli, ble, har blitt",
+        "english": "to become"
+    },
+    {
+        "norsk": "å hjelpe, hjalp, har hjulpet",
+        "english": "to assist"
+    },
+    {
+        "norsk": "å spørre, spurte, har spurt",
+        "english": "to inquire"
+    },
+    {
+        "norsk": "å endre, endret, har endret",
+        "english": "to change"
+    },
+    {
+        "norsk": "å male, malte, har malt",
+        "english": "to paint"
+    },
+    {
+        "norsk": "å fly, fløy, har fløyet",
+        "english": "to fly"
+    },
+    {
+        "norsk": "å stjele, stjal, har stjålet",
+        "english": "to steal"
+    },
+    {
+        "norsk": "å betale, betalte, har betalt",
+        "english": "to pay"
+    },
+    {
+        "norsk": "å ringe, ringte, har ringt",
+        "english": "to call"
+    },
+    {
+        "norsk": "å sende, sendte, har sendt",
+        "english": "to send"
+    },
+    {
+        "norsk": "å kutte, kuttet, har kuttet",
+        "english": "to cut"
+    },
+    {
+        "norsk": "å drømme, drømte, har drømt",
+        "english": "to dream"
+    },
+    {
+        "norsk": "å danse, danset, har danset",
+        "english": "to dance"
+    },
+    {
+        "norsk": "å løse, løste, har løst",
+        "english": "to solve"
+    },
+    {
+        "norsk": "å endre, endret, har endret",
+        "english": "to modify"
+    },
+    {
+        "norsk": "å huske, husket, har husket",
+        "english": "to remember"
+    },
+    {
+        "norsk": "å glemme, glemte, har glemt",
+        "english": "to forget"
+    },
+    {
+        "norsk": "å laste, lastet, har lastet",
+        "english": "to load"
+    },
+    {
+        "norsk": "å rydde, ryddet, har ryddet",
+        "english": "to clean"
+    },
+    {
+        "norsk": "å hjelpe, hjalp, har hjulpet",
+        "english": "to support"
+    },
+    {
+        "norsk": "å vinne, vant, har vunnet",
+        "english": "to win"
+    },
+    {
+        "norsk": "å tape, tapte, har tapt",
+        "english": "to lose"
+    },
+    {
+        "norsk": "å falle, falt, har falt",
+        "english": "to fall"
+    },
+    {
+        "norsk": "å tenke, tenkte, har tenkt",
+        "english": "to think"
+    },
+    {
+        "norsk": "å prøve, prøvde, har prøvd",
+        "english": "to try"
+    },
+    {
+        "norsk": "å fortelle, fortalte, har fortalt",
+        "english": "to tell"
+    },
+    {
+        "norsk": "å kaste, kastet, har kastet",
+        "english": "to throw"
+    },
+    {
+        "norsk": "å gripe, grep, har grepet",
+        "english": "to grab"
+    },
+    {
+        "norsk": "å bære, bar, har båret",
+        "english": "to carry"
+    },
+    {
+        "norsk": "å bygge, bygde, har bygd",
+        "english": "to build"
+    },
+    {
+        "norsk": "å smile, smilte, har smilt",
+        "english": "to smile"
+    },
+    {
+        "norsk": "å fortsette, fortsatte, har fortsatt",
+        "english": "to continue"
+    },
+    {
+        "norsk": "å behandle, behandlet, har behandlet",
+        "english": "to treat"
+    },
+    {
+        "norsk": "å be, bad, har bedt",
+        "english": "to pray"
+    },
+    {
+        "norsk": "å dra, dro, har dratt",
+        "english": "to go (on a trip)"
+    },
+    {
+        "norsk": "å fryse, frøs, har fryst",
+        "english": "to freeze"
+    },
+    {
+        "norsk": "å samle, samlet, har samlet",
+        "english": "to collect"
+    },
+    {
+        "norsk": "å stole, stolte, har stolt",
+        "english": "to trust"
+    },
+    {
+        "norsk": "å lete, lette, har lett",
+        "english": "to search"
+    },
+    {
+        "norsk": "å vente, ventet, har ventet",
+        "english": "to expect"
+    },
+    {
+        "norsk": "å åpne, åpnet, har åpnet",
+        "english": "to unlock"
+    },
+    {
+        "norsk": "å starte, startet, har startet",
+        "english": "to start"
+    },
+    {
+        "norsk": "å avslutte, avsluttet, har avsluttet",
+        "english": "to finish"
+    },
+    {
+        "norsk": "å bytte, byttet, har byttet",
+        "english": "to change"
+    },
+    {
+        "norsk": "å reise, reiste, har reist",
+        "english": "to travel"
+    },
+    {
+        "norsk": "å ringe, ringte, har ringt",
+        "english": "to ring"
+    },
+    {
+        "norsk": "å skyte, skjøt, har skutt",
+        "english": "to shoot"
+    },
+    {
+        "norsk": "å chatte, chattet, har chattet",
+        "english": "to chat"
+    },
+    {
+        "norsk": "å lage, laget, har laget",
+        "english": "to cook"
+    },
+    {
+        "norsk": "å reise, reiste, har reist",
+        "english": "to journey"
+    },
+    {
+        "norsk": "å sy, sydde, har sydd",
+        "english": "to sew"
+    },
+    {
+        "norsk": "å sprette, spratt, har spratt",
+        "english": "to jump"
+    }
+]
