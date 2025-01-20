@@ -490,5 +490,185 @@
     {
         "norsk": "å anta, antar, antok, har antatt",
         "english": "to assume"
+    },
+    {
+        "norsk": "å sy, syr, sydde, har sydd",
+        "english": "to sew"
+    },
+    {
+        "norsk": "å skrape, skraper, skrapte, har skrapt",
+        "english": "to scrape"
+    },
+    {
+        "norsk": "å snekre, snekrer, snekret, har snekret",
+        "english": "to carpenter/build"
+    },
+    {
+        "norsk": "å male, maler, malte, har malt",
+        "english": "to paint"
+    },
+    {
+        "norsk": "å klatre, klatrer, klatret, har klatret",
+        "english": "to climb"
+    },
+    {
+        "norsk": "å tygge, tygger, tygget, har tygget",
+        "english": "to chew"
+    },
+    {
+        "norsk": "å tisse, tisser, tisset, har tisset",
+        "english": "to pee"
+    },
+    {
+        "norsk": "å slite, sliter, slet, har slitt",
+        "english": "to struggle/wear out"
+    },
+    {
+        "norsk": "å puste, puster, pustet, har pustet",
+        "english": "to breathe"
+    },
+    {
+        "norsk": "å knuse, knuser, knuste, har knust",
+        "english": "to crush/break"
+    },
+    {
+        "norsk": "å lufte, lufter, luftet, har luftet",
+        "english": "to air out"
+    },
+    {
+        "norsk": "å blø, blør, blødde, har blødd",
+        "english": "to bleed"
+    },
+    {
+        "norsk": "å svette, svetter, svettet, har svettet",
+        "english": "to sweat"
+    },
+    {
+        "norsk": "å hviske, hvisker, hvisket, har hvisket",
+        "english": "to whisper"
+    },
+    {
+        "norsk": "å smyge, smyger, smøg, har smøget",
+        "english": "to sneak"
+    },
+    {
+        "norsk": "å brette, bretter, brettet, har brettet",
+        "english": "to fold"
+    },
+    {
+        "norsk": "å dele, deler, delte, har delt",
+        "english": "to share"
+    },
+    {
+        "norsk": "å dytte, dytter, dyttet, har dyttet",
+        "english": "to push"
+    },
+    {
+        "norsk": "å fylle, fyller, fylte, har fylt",
+        "english": "to fill"
+    },
+    {
+        "norsk": "å hente, henter, hentet, har hentet",
+        "english": "to fetch"
+    },
+    {
+        "norsk": "å kaste, kaster, kastet, har kastet",
+        "english": "to throw"
+    },
+    {
+        "norsk": "å miste, mister, mistet, har mistet",
+        "english": "to lose"
+    },
+    {
+        "norsk": "å rope, roper, ropte, har ropt",
+        "english": "to shout"
+    },
+    {
+        "norsk": "å samle, samler, samlet, har samlet",
+        "english": "to collect"
+    },
+    {
+        "norsk": "å skifte, skifter, skiftet, har skiftet",
+        "english": "to change"
+    },
+    {
+        "norsk": "å slukke, slukker, slukket, har slukket",
+        "english": "to extinguish/turn off"
+    },
+    {
+        "norsk": "å trekke, trekker, trakk, har trukket",
+        "english": "to pull"
+    },
+    {
+        "norsk": "å tømme, tømmer, tømte, har tømt",
+        "english": "to empty"
+    },
+    {
+        "norsk": "å veie, veier, veide, har veid",
+        "english": "to weigh"
+    },
+    {
+        "norsk": "å øve, øver, øvde, har øvd",
+        "english": "to practice"
+    },
+    {
+        "norsk": "å åpne, åpner, åpnet, har åpnet",
+        "english": "to open"
+    },
+    {
+        "norsk": "å lukke, lukker, lukket, har lukket",
+        "english": "to close"
+    },
+    {
+        "norsk": "å bære, bærer, bar, har båret",
+        "english": "to carry"
+    },
+    {
+        "norsk": "å sende, sender, sendte, har sendt",
+        "english": "to send"
+    },
+    {
+        "norsk": "å kjøpe, kjøper, kjøpte, har kjøpt",
+        "english": "to buy"
+    },
+    {
+        "norsk": "å selge, selger, solgte, har solgt",
+        "english": "to sell"
+    },
+    {
+        "norsk": "å løfte, løfter, løftet, har løftet",
+        "english": "to lift"
+    },
+    {
+        "norsk": "å dele, deler, delte, har delt",
+        "english": "to share"
+    },
+    {
+        "norsk": "å prøve, prøver, prøvde, har prøvd",
+        "english": "to try"
+    },
+    {
+        "norsk": "å velge, velger, valgte, har valgt",
+        "english": "to choose"
+    },
+    {
+        "norsk": "å savne, savner, savnet, har savnet",
+        "english": "to miss"
+    },
+    {
+        "norsk": "å håpe, håper, håpet, har håpet",
+        "english": "to hope"
+    },
+    {
+        "norsk": "å leie, leier, leide, har leid",
+        "english": "to rent"
+    },
+    {
+        "norsk": "å kjenne, kjenner, kjente, har kjent",
+        "english": "to know (someone)"
+    },
+    {
+        "norsk": "å gjemme, gjemmer, gjemte, har gjemt",
+        "english": "to hide"
     }
-]
+]    

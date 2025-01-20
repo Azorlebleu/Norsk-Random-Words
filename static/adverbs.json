@@ -1,0 +1,602 @@
+[
+    {
+        "norsk": "alltid",
+        "english": "always"
+    },
+    {
+        "norsk": "aldri",
+        "english": "never"
+    },
+    {
+        "norsk": "ofte",
+        "english": "often"
+    },
+    {
+        "norsk": "sjelden",
+        "english": "rarely"
+    },
+    {
+        "norsk": "snart",
+        "english": "soon"
+    },
+    {
+        "norsk": "nå",
+        "english": "now"
+    },
+    {
+        "norsk": "da",
+        "english": "then"
+    },
+    {
+        "norsk": "igjen",
+        "english": "again"
+    },
+    {
+        "norsk": "her",
+        "english": "here"
+    },
+    {
+        "norsk": "der",
+        "english": "there"
+    },
+    {
+        "norsk": "borte",
+        "english": "away"
+    },
+    {
+        "norsk": "oppe",
+        "english": "up"
+    },
+    {
+        "norsk": "ned",
+        "english": "down"
+    },
+    {
+        "norsk": "ut",
+        "english": "out"
+    },
+    {
+        "norsk": "inn",
+        "english": "in"
+    },
+    {
+        "norsk": "hjem",
+        "english": "home"
+    },
+    {
+        "norsk": "langt",
+        "english": "far"
+    },
+    {
+        "norsk": "nær",
+        "english": "near"
+    },
+    {
+        "norsk": "fort",
+        "english": "fast"
+    },
+    {
+        "norsk": "langsomt",
+        "english": "slowly"
+    },
+    {
+        "norsk": "godt",
+        "english": "well"
+    },
+    {
+        "norsk": "dårlig",
+        "english": "badly"
+    },
+    {
+        "norsk": "raskt",
+        "english": "quickly"
+    },
+    {
+        "norsk": "sakte",
+        "english": "slowly"
+    },
+    {
+        "norsk": "høyt",
+        "english": "loudly"
+    },
+    {
+        "norsk": "lavt",
+        "english": "quietly"
+    },
+    {
+        "norsk": "mer",
+        "english": "more"
+    },
+    {
+        "norsk": "mindre",
+        "english": "less"
+    },
+    {
+        "norsk": "mest",
+        "english": "most"
+    },
+    {
+        "norsk": "minst",
+        "english": "least"
+    },
+    {
+        "norsk": "litt",
+        "english": "a little"
+    },
+    {
+        "norsk": "mye",
+        "english": "much"
+    },
+    {
+        "norsk": "veldig",
+        "english": "very"
+    },
+    {
+        "norsk": "for",
+        "english": "too"
+    },
+    {
+        "norsk": "kanskje",
+        "english": "maybe"
+    },
+    {
+        "norsk": "sikkert",
+        "english": "certainly"
+    },
+    {
+        "norsk": "kanskje",
+        "english": "perhaps"
+    },
+    {
+        "norsk": "gjerne",
+        "english": "gladly"
+    },
+    {
+        "norsk": "nok",
+        "english": "enough"
+    },
+    {
+        "norsk": "absolutt",
+        "english": "absolutely"
+    },
+    {
+        "norsk": "likevel",
+        "english": "nevertheless"
+    },
+    {
+        "norsk": "derfor",
+        "english": "therefore"
+    },
+    {
+        "norsk": "selvfølgelig",
+        "english": "of course"
+    },
+    {
+        "norsk": "allikevel",
+        "english": "still"
+    },
+    {
+        "norsk": "iallfall",
+        "english": "at least"
+    },
+    {
+        "norsk": "akkurat",
+        "english": "exactly"
+    },
+    {
+        "norsk": "ikke",
+        "english": "not"
+    },
+    {
+        "norsk": "enda",
+        "english": "yet"
+    },
+    {
+        "norsk": "før",
+        "english": "before"
+    },
+    {
+        "norsk": "etterpå",
+        "english": "afterwards"
+    },
+    {
+        "norsk": "egentlig",
+        "english": "actually"
+    },
+    {
+        "norsk": "bare",
+        "english": "only"
+    },
+    {
+        "norsk": "nokså",
+        "english": "quite"
+    },
+    {
+        "norsk": "faktisk",
+        "english": "in fact"
+    },
+    {
+        "norsk": "sannsynligvis",
+        "english": "probably"
+    },
+    {
+        "norsk": "umulig",
+        "english": "impossibly"
+    },
+    {
+        "norsk": "dessverre",
+        "english": "unfortunately"
+    },
+    {
+        "norsk": "heldigvis",
+        "english": "fortunately"
+    },
+    {
+        "norsk": "enda",
+        "english": "still"
+    },
+    {
+        "norsk": "nesten",
+        "english": "almost"
+    },
+    {
+        "norsk": "forresten",
+        "english": "by the way"
+    },
+    {
+        "norsk": "fremdeles",
+        "english": "still"
+    },
+    {
+        "norsk": "likevel",
+        "english": "however"
+    },
+    {
+        "norsk": "egentlig",
+        "english": "actually"
+    },
+    {
+        "norsk": "først",
+        "english": "first"
+    },
+    {
+        "norsk": "sist",
+        "english": "last"
+    },
+    {
+        "norsk": "tidligere",
+        "english": "previously"
+    },
+    {
+        "norsk": "deretter",
+        "english": "thereafter"
+    },
+    {
+        "norsk": "imidlertid",
+        "english": "however"
+    },
+    {
+        "norsk": "allerede",
+        "english": "already"
+    },
+    {
+        "norsk": "tilsynelatende",
+        "english": "apparently"
+    },
+    {
+        "norsk": "umulig",
+        "english": "impossibly"
+    },
+    {
+        "norsk": "plutselig",
+        "english": "suddenly"
+    },
+    {
+        "norsk": "tilbake",
+        "english": "back"
+    },
+    {
+        "norsk": "bort",
+        "english": "away"
+    },
+    {
+        "norsk": "omtrent",
+        "english": "approximately"
+    },
+    {
+        "norsk": "hittil",
+        "english": "so far"
+    },
+    {
+        "norsk": "umiddelbart",
+        "english": "immediately"
+    },
+    {
+        "norsk": "nøyaktig",
+        "english": "precisely"
+    },
+    {
+        "norsk": "delvis",
+        "english": "partially"
+    },
+    {
+        "norsk": "fullstendig",
+        "english": "completely"
+    },
+    {
+        "norsk": "vanligvis",
+        "english": "usually"
+    },
+    {
+        "norsk": "foreløpig",
+        "english": "temporarily"
+    },
+    {
+        "norsk": "endelig",
+        "english": "finally"
+    },
+    {
+        "norsk": "samtidig",
+        "english": "simultaneously"
+    },
+    {
+        "norsk": "daglig",
+        "english": "daily"
+    },
+    {
+        "norsk": "ukentlig",
+        "english": "weekly"
+    },
+    {
+        "norsk": "månedlig",
+        "english": "monthly"
+    },
+    {
+        "norsk": "årleg",
+        "english": "annually"
+    },
+    {
+        "norsk": "åpenbart",
+        "english": "obviously"
+    },
+    {
+        "norsk": "merkelig",
+        "english": "strangely"
+    },
+    {
+        "norsk": "klokt",
+        "english": "wisely"
+    },
+    {
+        "norsk": "uheldigvis",
+        "english": "unluckily"
+    },
+    {
+        "norsk": "nøyaktig",
+        "english": "exactly"
+    },
+    {
+        "norsk": "tilfeldigvis",
+        "english": "coincidentally"
+    },
+    {
+        "norsk": "sannsynlig",
+        "english": "likely"
+    },
+    {
+        "norsk": "litt",
+        "english": "a little"
+    },
+    {
+        "norsk": "ganske",
+        "english": "fairly"
+    },
+    {
+        "norsk": "trolig",
+        "english": "probably"
+    },
+    {
+        "norsk": "umulig",
+        "english": "impossibly"
+    },
+    {
+        "norsk": "muligens",
+        "english": "possibly"
+    },
+    {
+        "norsk": "heller",
+        "english": "rather"
+    },
+    {
+        "norsk": "for så vidt",
+        "english": "as far as"
+    },
+    {
+        "norsk": "spesielt",
+        "english": "especially"
+    },
+    {
+        "norsk": "kanskje",
+        "english": "perhaps"
+    },
+    {
+        "norsk": "helt",
+        "english": "completely"
+    },
+    {
+        "norsk": "overhodet",
+        "english": "at all"
+    },
+    {
+        "norsk": "gjerne",
+        "english": "gladly"
+    },
+    {
+        "norsk": "ofte",
+        "english": "often"
+    },
+    {
+        "norsk": "riktig",
+        "english": "correctly"
+    },
+    {
+        "norsk": "forhåpentligvis",
+        "english": "hopefully"
+    },
+    {
+        "norsk": "slik",
+        "english": "thus"
+    },
+    {
+        "norsk": "langt",
+        "english": "far"
+    },
+    {
+        "norsk": "desto",
+        "english": "the more"
+    },
+    {
+        "norsk": "selvfølgelig",
+        "english": "of course"
+    },
+    {
+        "norsk": "sammen",
+        "english": "together"
+    },
+    {
+        "norsk": "videre",
+        "english": "furthermore"
+    },
+    {
+        "norsk": "til og med",
+        "english": "even"
+    },
+    {
+        "norsk": "straks",
+        "english": "immediately"
+    },
+    {
+        "norsk": "faktisk",
+        "english": "actually"
+    },
+    {
+        "norsk": "uansett",
+        "english": "anyway"
+    },
+    {
+        "norsk": "plutselig",
+        "english": "suddenly"
+    },
+    {
+        "norsk": "litt",
+        "english": "a little"
+    },
+    {
+        "norsk": "innimellom",
+        "english": "occasionally"
+    },
+    {
+        "norsk": "aldri",
+        "english": "never"
+    },
+    {
+        "norsk": "ofte",
+        "english": "often"
+    },
+    {
+        "norsk": "sikkert",
+        "english": "certainly"
+    },
+    {
+        "norsk": "noen ganger",
+        "english": "sometimes"
+    },
+    {
+        "norsk": "direkte",
+        "english": "directly"
+    },
+    {
+        "norsk": "langsomt",
+        "english": "slowly"
+    },
+    {
+        "norsk": "fort",
+        "english": "quickly"
+    },
+    {
+        "norsk": "tilsvarende",
+        "english": "correspondingly"
+    },
+    {
+        "norsk": "tett",
+        "english": "closely"
+    },
+    {
+        "norsk": "bortsett fra",
+        "english": "apart from"
+    },
+    {
+        "norsk": "etterhvert",
+        "english": "gradually"
+    },
+    {
+        "norsk": "overraskende",
+        "english": "surprisingly"
+    },
+    {
+        "norsk": "uten videre",
+        "english": "without further ado"
+    },
+    {
+        "norsk": "helt sikkert",
+        "english": "for sure"
+    },
+    {
+        "norsk": "derimot",
+        "english": "on the other hand"
+    },
+    {
+        "norsk": "nøyaktig",
+        "english": "precisely"
+    },
+    {
+        "norsk": "vidt",
+        "english": "widely"
+    },
+    {
+        "norsk": "relativt",
+        "english": "relatively"
+    },
+    {
+        "norsk": "egentlig",
+        "english": "actually"
+    },
+    {
+        "norsk": "verken",
+        "english": "neither"
+    },
+    {
+        "norsk": "uavhengig",
+        "english": "independently"
+    },
+    {
+        "norsk": "langt fra",
+        "english": "far from"
+    },
+    {
+        "norsk": "uventet",
+        "english": "unexpectedly"
+    },
+    {
+        "norsk": "såvidt",
+        "english": "barely"
+    },
+    {
+        "norsk": "utrolig",
+        "english": "incredibly"
+    },
+    {
+        "norsk": "etter hvert",
+        "english": "eventually"
+    }
+]

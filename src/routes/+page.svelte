@@ -12,7 +12,8 @@
   const buttonConfigs = [
     { source: "verbs", label: "Verbs" },
     { source: "sentences", label: "Sentences" },
-    { source: "sentences-hard", label: "Sentences+" }
+    { source: "sentences-hard", label: "Sentences+" },
+    { source: "adverbs", label: "Adverbs"}
   ] as const;
 
   const dataSource = writable<App.DataSource>("verbs");
@@ -94,7 +95,6 @@
 <button class="next-button" on:click={changeElement}>
   Next
 </button>
-
 <button 
   class="hide-translation-button" 
   class:active={$hideTranslation}
@@ -106,6 +106,7 @@
   Show translation
   {/if}
 </button>
+
 
 
 </main>
@@ -154,20 +155,21 @@
   }
 
   .content {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 2rem;
-    background-color: #ffffff;
-    border-radius: 15px;
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
-    width: 90%;
-    height: 250px;
-    max-width: 600px;
-    margin-bottom: 2rem;
-    transition: all 0.3s ease;
-  }
+  position: relative; /* Add this to position the button relative to the content */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  width: 90%;
+  height: 250px;
+  max-width: 600px;
+  margin-bottom: 2rem;
+  transition: all 0.3s ease;
+}
 
   .content:hover {
     transform: translateY(-5px);
@@ -262,29 +264,34 @@
     background-color: #e74c3c;
     color: white;
   }
-
   .hide-translation-button {
-    padding: 14px 32px;
-    font-size: 1.3rem;
-    background-color: var(--primary-color);
-    color: var(--button-text-color);
-    border: none;
-    border-radius: 25px;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    margin-top: 1rem;
-  }
+  padding: 14px 32px;
+  font-size: 1.3rem;
+  background-color: var(--primary-color);
+  color: var(--button-text-color);
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  position: absolute;
+  bottom: 10px; /* Position from the bottom */
+  right: 10px; /* Position from the right */
+}
 
-  .hide-translation-button:hover {
-    background-color: var(--secondary-color);
-    transform: translateY(-2px);
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  }
-
-  .hide-translation-button.active {
+.hide-translation-button:hover {
   background-color: var(--third-color);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.hide-translation-button.active {
+  background-color: var(--third-color);
+}
+
+.hide-translation-button.active:hover{
+  background-color: var(--primary-color);
 }
 
 </style>

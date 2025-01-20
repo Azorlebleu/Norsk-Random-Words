@@ -6,6 +6,6 @@ declare namespace App {
 	  difficulty: number;
 	}
   	// Define possible data sources
-	type DataSource = "verbs" | "sentences" | "sentences-hard";
+	type DataSource = "verbs" | "sentences" | "sentences-hard" | "adverbs";
   }
   
